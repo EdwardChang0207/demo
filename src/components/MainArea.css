@@ -1,0 +1,17 @@
+#questionType{
+    padding-top: 4vmin;
+}
+#dropdowns{
+    font-size: 3vmin;
+}
+#dropdowns option{
+    font-size: 3vmin;
+}
+#logo-container{
+    justify-content: end;
+}
+#logo{
+    justify-self: end;
+    height: 30vmin;
+    width: 30vmin;
+}
